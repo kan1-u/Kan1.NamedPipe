@@ -1,0 +1,4 @@
+## Named Pipe
+
+## License
+MIT
